@@ -68,12 +68,3 @@ for AI agents, and a couple of full-stack apps, alongside ML work and daily DSA 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
-
-### GitHub stats
-
-<!-- Optional: these cards come from a free public service that is sometimes rate-limited and shows a broken image. Delete this section if that happens. -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhsharad&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsharad&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
