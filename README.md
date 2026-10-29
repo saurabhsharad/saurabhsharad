@@ -10,6 +10,10 @@
   <a href="https://github.com/saurabhsharad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/saurabhsharad/sentinel"><img src="https://img.shields.io/badge/YC_Fall_2026_%C3%97_Moss-Finalist-F26625?style=flat-square&logo=ycombinator&logoColor=white"/></a>
+</p>
+
 ---
 
 ### About
@@ -20,11 +24,18 @@ for AI agents, and a couple of full-stack apps, alongside ML work and daily DSA 
 
 ---
 
+### Highlights
+
+- 🏆 **Finalist, YC Fall 2026 × Moss: The Zero Latency Builder Sprint** (theme: Agent Reliability, Security & Evaluation)
+  with [Sentinel](https://github.com/saurabhsharad/sentinel), a trajectory-aware authority layer for AI agents
+
+---
+
 ### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Sentinel**](https://github.com/saurabhsharad/sentinel) | Trajectory-governed authority for AI agents: catches sequences of individually allowed actions that add up to a data leak. Built for the YC Fall 2026 × Moss builder sprint. [Live app](https://sentinel-zrri.onrender.com) · [Demo](https://youtu.be/v5xE2jWmj6Q) | Python, Docker, Render |
+| [**Sentinel**](https://github.com/saurabhsharad/sentinel) | Trajectory-governed authority for AI agents: catches sequences of individually allowed actions that add up to a data leak. **Finalist** at the YC Fall 2026 × Moss builder sprint. [Live app](https://sentinel-zrri.onrender.com) · [Demo](https://youtu.be/v5xE2jWmj6Q) | Python, Docker, Render |
 | [**LLM Gateway**](https://github.com/saurabhsharad/llm-gateway) | One API in front of multiple LLM providers (Gemini, Groq): provider adapters, model aliases, hashed API keys, usage logging, request IDs, standard errors | FastAPI, PostgreSQL, React, Docker |
 | [**LeadFlow**](https://github.com/saurabhsharad/Leadflow) | Single-screen CRM for managing leads, discussions and follow-ups | Python, TypeScript, Docker |
 | [**Car Dealership Inventory**](https://github.com/saurabhsharad/car-dealership-inventory) | Full-stack vehicle inventory system built test-first | FastAPI, SQLAlchemy 2.0, Alembic, PostgreSQL, React, Vite, Tailwind, pytest |
